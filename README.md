@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ennie
 - 👀 I’m interested in Graphic Design & software development
 - 🌱 I’m currently learning html/css, Javascript and PHP
+- 🧪 I work confidently with Java and Python 
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me enniegd@gmail.com
 - 😄 Pronouns: Her/She
