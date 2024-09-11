@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html/css, Javascript and PHP
 - 🧪 I work confidently with Java and Python 
 - 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me enniegd@gmail.com
+- 📫 How to reach me eniitanayeni@hotmail.com
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I am a self taught graphic designer and own a salon
 
